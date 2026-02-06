@@ -1,17 +1,17 @@
 # Como-Enviar-um-Projeto-para-o-GitHub
 
-https://www.youtube.com/watch?v=aINs3ouaoJk
+- https://www.youtube.com/watch?v=aINs3ouaoJk
+- https://raw.githubusercontent.com/RodrigoMvs123/Como-Enviar-um-Projeto-para-o-GitHub/main/README.md
+- https://github.com/RodrigoMvs123/Como-Enviar-um-Projeto-para-o-GitHub/blame/main/README.md
 
-https://raw.githubusercontent.com/RodrigoMvs123/Como-Enviar-um-Projeto-para-o-GitHub/main/README.md
+## Create a new repository
 
-https://github.com/RodrigoMvs123/Como-Enviar-um-Projeto-para-o-GitHub/blame/main/README.md
+- Repository name
+- Create repository
 
+## Prompt de Comando
 
-Create a new repository 
-Repository name 
-Create repository 
-
-Prompt de Comando 
+```bash
 cd Documents 
 \ Documents>
 
@@ -26,6 +26,3 @@ cd tabela-simples> git add .
 cd tabela-simples> git commit -m "first commit"
 cd tabela-simples> git remote add origin https://github.com/RodrigoMvs123/Como-Enviar-um-Projeto-para-o-GitHub.git
 cd tabela-simples> git push -u origin master 
-
-
-
